@@ -37,10 +37,9 @@
 | # | Nombre completo | Rol en el equipo | Correo institucional |
 |---|-----------------|------------------|----------------------|
 | 1 | [COMPLETAR] | Líder del proyecto / administrador del repositorio | [COMPLETAR]@udea.edu.co |
-| 2 | Maribel Acevedo Serna | [COMPLETAR] | maribel.acevedo@udea.edu.co |
+| 2 | Maribel Acevedo Serna | [Datos y reportes] | maribel.acevedo@udea.edu.co |
 | 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR]@udea.edu.co |
 | 4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR]@udea.edu.co |
-| 5 | [COMPLETAR o borrar esta fila si son 4] | [COMPLETAR] | [COMPLETAR]@udea.edu.co |
 
 **Descripción del equipo:** somos un grupo de estudiantes de pregrado de la Universidad de Antioquia que se unió para desarrollar un programa en Python que ayude al Movimiento Estudiantil de Perritos y Gaticos (MEPEGA) a registrar y hacer seguimiento a las PQRS relacionadas con la atención veterinaria de perros y gatos en la universidad.
 
@@ -55,9 +54,9 @@
 - **Habilidades:** [COMPLETAR, ej.: programación en Python, trabajo en equipo]
 - **Fortalezas:** [COMPLETAR, ej.: organización, liderazgo]
 
-### 👤 Walys Vera Herrera
-- **Programa académico:** Estadística
-- **Habilidades:** [COMPLETAR, ej.: análisis de datos, estadística descriptiva, manejo de bases de datos]
+### 👤 Maribel Acevedo
+- **Programa académico:** Ingeniería Industrial
+- **Habilidades:** [COMPLETAR, ej.: análisis de datos, manejo de bases de datos]
 - **Fortalezas:** [COMPLETAR]
 
 ### 👤 [COMPLETAR: Nombre integrante 3]
