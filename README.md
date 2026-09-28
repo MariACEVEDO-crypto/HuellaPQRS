@@ -37,7 +37,7 @@
 | # | Nombre completo | Rol en el equipo | Correo institucional |
 |---|-----------------|------------------|----------------------|
 | 1 | [COMPLETAR] | Líder del proyecto / administrador del repositorio | [COMPLETAR]@udea.edu.co |
-| 2 | Walys Vera Herrera | [COMPLETAR] | [COMPLETAR]@udea.edu.co |
+| 2 | Maribel Acevedo Serna | [COMPLETAR] | maribel.acevedo@udea.edu.co |
 | 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR]@udea.edu.co |
 | 4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR]@udea.edu.co |
 | 5 | [COMPLETAR o borrar esta fila si son 4] | [COMPLETAR] | [COMPLETAR]@udea.edu.co |
