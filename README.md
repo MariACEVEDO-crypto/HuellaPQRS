@@ -1,10 +1,4 @@
-<!-- ============================================================
-     GUÍA RÁPIDA (borra este bloque antes de entregar)
-     - Todo lo que dice [COMPLETAR] lo tiene que llenar el equipo.
-     - "HuellaPQRS" es un nombre de ejemplo: cámbienlo si quieren.
-     - La imagen del logo debe quedar en la carpeta images/ con el
-       nombre logo.png (o cambien la ruta abajo).
-     ============================================================ -->
+
 
 <p align="center">
   <img src="images/logo.png" alt="Logo de HuellaPQRS" width="220">
@@ -36,10 +30,9 @@
 
 | # | Nombre completo | Rol en el equipo | Correo institucional |
 |---|-----------------|------------------|----------------------|
-| 1 | [COMPLETAR] | Líder del proyecto / administrador del repositorio | [COMPLETAR]@udea.edu.co |
+| 1 | [Jua ManuelEcheverri Idarraga] | Líder del proyecto / administrador del repositorio | j.echeverri@udea.edu.co |
 | 2 | Maribel Acevedo Serna | [Datos y reportes] | maribel.acevedo@udea.edu.co |
 | 3 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR]@udea.edu.co |
-| 4 | [COMPLETAR] | [COMPLETAR] | [COMPLETAR]@udea.edu.co |
 
 **Descripción del equipo:** somos un grupo de estudiantes de pregrado de la Universidad de Antioquia que se unió para desarrollar un programa en Python que ayude al Movimiento Estudiantil de Perritos y Gaticos (MEPEGA) a registrar y hacer seguimiento a las PQRS relacionadas con la atención veterinaria de perros y gatos en la universidad.
 
@@ -49,8 +42,8 @@
 
 ## 2. Vínculos académicos y descripción
 
-### 👤 [COMPLETAR: Nombre integrante 1]
-- **Programa académico:** [COMPLETAR]
+### 👤 [Juan Manuel Echeverri Idarraga]
+- **Programa académico:** Ingeniería Industrial
 - **Habilidades:** [COMPLETAR, ej.: programación en Python, trabajo en equipo]
 - **Fortalezas:** [COMPLETAR, ej.: organización, liderazgo]
 
@@ -64,17 +57,6 @@
 - **Habilidades:** [COMPLETAR]
 - **Fortalezas:** [COMPLETAR]
 
-### 👤 [COMPLETAR: Nombre integrante 4]
-- **Programa académico:** [COMPLETAR]
-- **Habilidades:** [COMPLETAR]
-- **Fortalezas:** [COMPLETAR]
-
-### 👤 [COMPLETAR: Nombre integrante 5, si aplica]
-- **Programa académico:** [COMPLETAR]
-- **Habilidades:** [COMPLETAR]
-- **Fortalezas:** [COMPLETAR]
-
----
 
 ## 3. Nombre del proyecto y detalles
 
@@ -159,14 +141,14 @@ Desarrollar en Python un programa de consola que permita a MEPEGA gestionar sus 
 | ID | Nombre | Descripción |
 |----|--------|-------------|
 | RF-01 | Iniciar sesión | El sistema debe pedir usuario (o correo institucional) y contraseña y compararlos con un archivo de usuarios autorizados antes de mostrar el menú. |
-| RF-02 | Bloquear por intentos fallidos | Después de 3 intentos fallidos, el sistema debe bloquear el acceso durante [COMPLETAR: ej. 60] segundos y mostrar en pantalla el tiempo que falta. |
+| RF-02 | Bloquear por intentos fallidos | Después de 3 intentos fallidos, el sistema debe bloquear el acceso durante 60 segundos y mostrar en pantalla el tiempo que falta. |
 | RF-03 | Guardar sesión activa | El sistema debe recordar qué usuario inició sesión para asociarlo automáticamente a cada PQRS que registre. |
 | RF-04 | Mostrar menú principal | El sistema debe mostrar un menú con las opciones: Registrar PQRS, Consultar PQRS, Registrar cambio en PQRS, Estadísticas y Salir. |
 | RF-05 | Registrar PQRS | El sistema debe pedir los datos del solicitante, de la solicitud, de la mascota y del campus, y guardarlos en el archivo que corresponda a su tipo. |
 | RF-06 | Validar datos | El sistema debe revisar cada dato según sus reglas (longitud, formato, obligatoriedad) y volver a pedirlo si es incorrecto. |
 | RF-07 | Asignar radicado consecutivo | El sistema debe asignar a cada PQRS un ID entero que empieza en 1 y aumenta de uno en uno, con una secuencia independiente para cada archivo. |
 | RF-08 | Guardar en cuatro archivos | El sistema debe guardar las PQRS en Peticion.txt, Queja.txt, Reclamo.txt y Sugerencia.txt, todos con la misma estructura. |
-| RF-09 | Calcular fecha máxima de respuesta | El sistema debe calcular la fecha máxima de respuesta sumando [COMPLETAR: ej. 25] días calendario a la fecha de registro. |
+| RF-09 | Calcular fecha máxima de respuesta | El sistema debe calcular la fecha máxima de respuesta sumando 15 días calendario a la fecha de registro. |
 | RF-10 | Generar radicado | El sistema debe crear un comprobante en TXT de 120 caracteres de ancho, con marco ASCII, sin la descripción detallada y mostrando "N/A" si no hay dirección. |
 | RF-11 | Consultar PQRS | El sistema debe permitir buscar y ver las PQRS registradas y mostrarlas en formato de radicado. |
 | RF-12 | Cambiar estado | El sistema debe permitir cambiar el estado de una PQRS siguiendo solo el orden Registrada → En proceso → Solucionada. |
@@ -250,20 +232,19 @@ El proyecto no se paga con dinero, sino con **tiempo de práctica de formación*
 **Datos base:**
 - SMLV 2026: **$1.750.905** (Decreto 1469 de 2025).
 - Valor de la hora: **$8.338**, calculado sobre la jornada máxima de 42 horas semanales vigente desde el 15 de julio de 2026.
-- Horas totales del equipo: **50 horas**.
+- Horas totales del equipo: **150 horas** (3 x 50 h).
 
 **Cálculo:**
 
 | Concepto | Horas | Valor hora | Subtotal |
 |----------|:-----:|-----------:|---------:|
-| Planeación y documentación | 10 | $8.338 | $83.380 |
-| Diseño | 4 | $8.338 | $33.352 |
-| Desarrollo del programa | 21 | $8.338 | $175.098 |
-| Reportes y Power BI | 6 | $8.338 | $50.028 |
-| Pruebas | 4 | $8.338 | $33.352 |
-| Manual y GitHub | 5 | $8.338 | $41.690 |
-| **Total** | **50** | | **$416.900** |
+| Planeación y documentación | 30 | $8.338 | $250.140|
+| Diseño | 12 | $8.338 | $100.056|
+| Desarrollo del programa | 63 | $8.338 | $525.294 |
+| Reportes y Power BI | 18 | $8.338 | $150.084|
+| Pruebas | 12 | $8.338 | $100.056 |
+| Manual y GitHub | 15 | $8.338 | $125.070|
+| **Total** | 150 | | **$1.250.700** |
 
 **Recursos sin costo adicional:** computadores personales de los integrantes, Python (gratuito), Visual Studio Code (gratuito), GitHub (gratuito) y Power BI Desktop (gratuito).
 
-> [COMPLETAR/CONFIRMAR con el profesor] Si las 50 horas son **por cada integrante** y no para todo el equipo, el total se multiplica por el número de integrantes (4 integrantes = $1.667.600; 5 integrantes = $2.084.500).
