@@ -52,8 +52,9 @@
 - **Habilidades:** [COMPLETAR, ej.: análisis de datos, manejo de bases de datos]
 - **Fortalezas:** [COMPLETAR]
 
-### 👤 [COMPLETAR: Nombre integrante 3]
-- **Programa académico:** [COMPLETAR]
+### 👤 jhon fredis cordoba aragon 
+- **Programa académico:** ingenieria indudtrial
+  
 - **Habilidades:** [COMPLETAR]
 - **Fortalezas:** [COMPLETAR]
 
