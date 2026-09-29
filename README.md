@@ -55,8 +55,8 @@
 ### 👤 jhon fredis cordoba aragon 
 - **Programa académico:** ingenieria indudtrial
   
-- **Habilidades:** [COMPLETAR]
-- **Fortalezas:** [COMPLETAR]
+- **Habilidades:** análisis de datos, optimización de operaciones y modelado de sistemas.
+- **Fortalezas:** Pensamiento analítico, resolución de problemas complejos
 
 
 ## 3. Nombre del proyecto y detalles
