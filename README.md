@@ -4,7 +4,7 @@
   <img src="images/logo.png" alt="Logo de HuellaPQRS" width="220">
 </p>
 
-<h1 align="center">🐾 HuellaPQRS</h1>
+<h1 align="center">🐾 HuellaMEPEGAPQRS</h1>
 <p align="center"><i>Gestor de Peticiones, Quejas, Reclamos y Sugerencias para MEPEGA</i></p>
 
 <p align="center">
@@ -44,13 +44,13 @@
 
 ### 👤 [Juan Manuel Echeverri Idarraga]
 - **Programa académico:** Ingeniería Industrial
-- **Habilidades:** [COMPLETAR, ej.: programación en Python, trabajo en equipo]
-- **Fortalezas:** [COMPLETAR, ej.: organización, liderazgo]
+- **Habilidades:** Programación en Python, trabajo en equipo 
+- **Fortalezas:** Organización, liderazgo
 
 ### 👤 Maribel Acevedo
 - **Programa académico:** Ingeniería Industrial
-- **Habilidades:** [COMPLETAR, ej.: análisis de datos, manejo de bases de datos]
-- **Fortalezas:** [COMPLETAR]
+- **Habilidades:** Análisis de datos, manejo de bases de datos
+- **Fortalezas:** Pensamiento analítico
 
 ### 👤[jhon fredis cordoba aragon] 
 - **Programa académico:**[ingenieria indudtrial]
@@ -60,11 +60,11 @@
 
 ## 3. Nombre del proyecto y detalles
 
-**Nombre:** HuellaPQRS
+**Nombre:** HuellaMEPEGAPQRS
 
 **¿Por qué este nombre?** Cada solicitud que llega a MEPEGA deja una "huella": queda registrada, tiene un número propio y se le hace seguimiento hasta que se soluciona, igual que las huellas de los perritos y gaticos a los que busca ayudar.
 
-**Descripción corta:** HuellaPQRS es un programa de consola hecho en Python que permite a los administradores de MEPEGA registrar, consultar y actualizar las Peticiones, Quejas, Reclamos y Sugerencias sobre la atención veterinaria de perros y gatos en la UdeA. Guarda la información en archivos de texto, genera un comprobante (radicado) por cada solicitud, controla los plazos de respuesta y produce estadísticas para tomar mejores decisiones.
+**Descripción corta:** HuellaMEPEGAPQRS es un programa de consola hecho en Python que permite a los administradores de MEPEGA registrar, consultar y actualizar las Peticiones, Quejas, Reclamos y Sugerencias sobre la atención veterinaria de perros y gatos en la UdeA. Guarda la información en archivos de texto, genera un comprobante (radicado) por cada solicitud, controla los plazos de respuesta y produce estadísticas para tomar mejores decisiones.
 
 <p align="center">
   <img src="images/logo.png" alt="Imagen representativa de HuellaPQRS" width="180">
