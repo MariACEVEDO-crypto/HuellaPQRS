@@ -31,7 +31,7 @@
 | # | Nombre completo | Rol en el equipo | Correo institucional |
 |---|-----------------|------------------|----------------------|
 | 1 | Jua Manuel Echeverri Idarraga | Líder del proyecto / administrador del repositorio |j.echeverri@udea.edu.co |
-| 2 | Maribel Acevedo Serna  Datos y reportes | maribel.acevedo@udea.edu.co |
+| 2 | Maribel Acevedo Serna |Datos y reportes | maribel.acevedo@udea.edu.co |
 | 3 | jhon fredis cordoba  |resolucion de problemas complejos | jhon.cordoba1@udea.edu.co |
 
 **Descripción del equipo:** somos un grupo de estudiantes de pregrado de la Universidad de Antioquia que se unió para desarrollar un programa en Python que ayude al Movimiento Estudiantil de Perritos y Gaticos (MEPEGA) a registrar y hacer seguimiento a las PQRS relacionadas con la atención veterinaria de perros y gatos en la universidad.
