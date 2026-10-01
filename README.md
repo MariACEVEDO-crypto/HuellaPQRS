@@ -30,7 +30,7 @@
 
 | # | Nombre completo | Rol en el equipo | Correo institucional |
 |---|-----------------|------------------|----------------------|
-| 1 | Jua ManuelEcheverri Idarraga  Líder del proyecto / administrador del repositorio  j.echeverri@udea.edu.co |
+| 1 | Jua ManuelEcheverri Idarraga | Líder del proyecto / administrador del repositorio  j.echeverri@udea.edu.co |
 | 2 | Maribel Acevedo Serna  Datos y reportes | maribel.acevedo@udea.edu.co |
 | 3 | jhon fredis cordoba  |resolucion de problemas complejos | jhon.cordoba1@udea.edu.co |
 
