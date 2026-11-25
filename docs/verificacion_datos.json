@@ -1,0 +1,26 @@
+{
+  "Peticion": {
+    "registros": 3000,
+    "telefonos_reparados": 896,
+    "sha256_origen": "72ccce3e46513e571ed4e2d3ca278e44aa998a508197b1e25514e62628c4b7b4",
+    "sha256_final": "ce5409694b756ed91d21e6417e84d94ef03aba0d24d8da28b10f49cac56d9626"
+  },
+  "Queja": {
+    "registros": 3000,
+    "telefonos_reparados": 918,
+    "sha256_origen": "d21417b871d105220cade1a3aae4bb2e3231ceb0b2a75d3c7e84b3934e8241a5",
+    "sha256_final": "14c2df22708176ab1befe68a4bb1bbc775aff17e27550d2f4bee602157c6ff49"
+  },
+  "Reclamo": {
+    "registros": 3000,
+    "telefonos_reparados": 938,
+    "sha256_origen": "8e1b607fdcdcb950ac9f6f94b64f345534d8372d5a4a1dae84fa029fc2677b56",
+    "sha256_final": "5a06c660921352543b9460789a02632c44b4f507280062b113edcdfe3cfd8a7e"
+  },
+  "Sugerencia": {
+    "registros": 3000,
+    "telefonos_reparados": 966,
+    "sha256_origen": "a3a43727627d83d31e80dd71f548ced9c9689615882613b3cdab1fa7d9a4d91a",
+    "sha256_final": "6c388325721b92c2ce76320ae63c5c2e92bc6ec9bbaac2b956eb734778cc1be8"
+  }
+}

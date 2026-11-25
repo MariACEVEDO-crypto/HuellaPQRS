@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.tmp
+.venv/
+venv/
+.env
+.DS_Store
+.vscode/
+# Salidas de ejecución o datos de prueba generados posteriormente
+data/radicados/
+data/simulacion/
+# Nunca añadir credenciales reales, respaldos con datos personales ni secretos.
+*.bak
+*.backup
+
+data/demostracion/radicados/

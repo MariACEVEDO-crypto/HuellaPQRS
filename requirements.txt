@@ -1,0 +1,6 @@
+# Entorno probado para consola: Python 3.13
+pandas==2.2.3
+numpy==2.3.5
+matplotlib==3.10.8
+# Versión objetivo de la GUI; instalación y renderizado pendientes de prueba local.
+flet[desktop]==0.80.5

@@ -1,0 +1,76 @@
+1. Promedio días de respuesta: No disponible
+Promedio antes del redondeo: No disponible
+Criterio: redondeo al entero más cercano al final (empate al par).
+Casos válidos: 0 de 4052 solucionadas.
+Base seleccionada: BASE HISTÓRICA SINTÉTICA ORIGINAL
+Total: 12000 | Activas: 7948 | Corte: 2026-11-25 14:38:26
+Mascotas:
+  Otro: 4051 (33.76%)
+  Gato: 4036 (33.63%)
+  Perro: 3913 (32.61%)
+Canales:
+  Página web: 1989 (16.57%)
+  Redes sociales: 2047 (17.06%)
+  Presencial: 1983 (16.52%)
+  Otro: 2034 (16.95%)
+  Teléfono: 1935 (16.12%)
+  Correo electrónico: 2012 (16.77%)
+Campus:
+  Campus Medellín - Casas Patrimoniales: 1310
+  Campus Medellín - Sede de Posgrado: 1341
+  Campus Medellín - Edificio Antioquia: 1338
+  Campus Medellín - Edificio San Ignacio: 1274
+  Campus Medellín - Ciudad Universitaria: 1347
+  Campus Medellín - Antigua Escuela de Derecho: 1350
+  Campus Medellín - Ciudadela Robledo: 1381
+  Campus Medellín - Edificio de Extensión: 1307
+  Campus en el Área de la salud: 1352
+Estados:
+  Registrada: 4019 (33.49%)
+  En proceso: 3929 (32.74%)
+  Solucionada: 4052 (33.77%)
+Tipos de PQRS:
+  Peticion: 3000
+  Queja: 3000
+  Reclamo: 3000
+  Sugerencia: 3000
+Documentos de identidad:
+  TI: 2408
+  CC: 2377
+  CE: 2374
+  PP: 2396
+  NIT: 2445
+Perfiles:
+  No disponible: 12000
+Usuarios registradores:
+  lrestrepo_udea: 972
+  mtorres_udea: 982
+  cparra_udea: 948
+  scardenas_udea: 972
+  rquintero_udea: 1041
+  mvelez_udea: 994
+  admin_udea: 995
+  fherrera_udea: 1060
+  jbedoya_udea: 1005
+  apineda_udea: 1032
+  jgomez_udea: 976
+  dgiraldo_udea: 1023
+Vencimientos (base: activas):
+  Vencida: 7410 (93.23%)
+  Próxima a vencer: 110 (1.38%)
+  Dentro del plazo: 428 (5.39%)
+  Fecha inválida: 0 (0.0%)
+Umbral de alerta: 5 días; incluye hoy y excluye solucionadas.
+PQRS activas más antiguas:
+  Reclamo #2969 | 2026-01-01 07:53:30
+Alertas: 7520; primeras 10 (exportación completa en CSV):
+  Reclamo #2969 | Vencida | 2026-01-31 07:53:30
+  Peticion #643 | Vencida | 2026-01-31 08:24:13
+  Sugerencia #761 | Vencida | 2026-01-31 09:05:25
+  Peticion #2543 | Vencida | 2026-01-31 09:08:41
+  Sugerencia #174 | Vencida | 2026-01-31 09:17:11
+  Peticion #2119 | Vencida | 2026-01-31 09:32:57
+  Peticion #2027 | Vencida | 2026-01-31 09:50:29
+  Queja #1955 | Vencida | 2026-01-31 11:14:29
+  Peticion #2610 | Vencida | 2026-01-31 12:01:27
+  Sugerencia #2626 | Vencida | 2026-01-31 12:27:23

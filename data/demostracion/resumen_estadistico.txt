@@ -1,0 +1,49 @@
+1. Promedio días de respuesta: 2
+Promedio antes del redondeo: 2.2007 días
+Criterio: redondeo al entero más cercano al final (empate al par).
+Casos válidos: 5 de 5 solucionadas.
+Base seleccionada: DEMOSTRACIÓN SINTÉTICA AISLADA
+Total: 9 | Activas: 4 | Corte: 2026-11-25 15:02:33
+Mascotas:
+  Perro: 5 (55.56%)
+  Gato: 2 (22.22%)
+  Otro: 2 (22.22%)
+Canales:
+  Presencial: 3 (33.33%)
+  Correo electrónico: 2 (22.22%)
+  Página web: 2 (22.22%)
+  Teléfono: 2 (22.22%)
+Campus:
+  Campus Medellín - Ciudad Universitaria: 3
+  Campus Medellín - Ciudadela Robledo: 2
+  Campus en el Área de la salud: 2
+  Campus Medellín - Sede de Posgrado: 2
+Estados:
+  Registrada: 2 (22.22%)
+  En proceso: 2 (22.22%)
+  Solucionada: 5 (55.56%)
+Tipos de PQRS:
+  Peticion: 3
+  Queja: 2
+  Reclamo: 2
+  Sugerencia: 2
+Documentos de identidad:
+  CC: 9
+Perfiles:
+  Estudiante: 3
+  Docente: 2
+  Administrativo: 2
+  Ciudadano: 2
+Usuarios registradores:
+  demo_operador: 9
+Vencimientos (base: activas):
+  Vencida: 1 (25.0%)
+  Próxima a vencer: 1 (25.0%)
+  Dentro del plazo: 2 (50.0%)
+  Fecha inválida: 0 (0.0%)
+Umbral de alerta: 5 días; incluye hoy y excluye solucionadas.
+PQRS activas más antiguas:
+  Peticion #2 | 2026-10-23 12:00:00
+Alertas: 2; primeras 10 (exportación completa en CSV):
+  Peticion #2 | Vencida | 2026-11-22 12:00:00
+  Queja #2 | Próxima a vencer | 2026-11-27 12:00:00

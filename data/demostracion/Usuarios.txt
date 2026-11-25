@@ -1,0 +1,2 @@
+usuario|nombre_completo|correo_institucional|contrasena|rol|estado
+demo_operador|Operador Demo|demo.operador@udea.edu.co|pbkdf2_sha256$600000$a0bda14d5229c815daa9394801ef507b$d21d37d40478dcb5fc23901c424b86802794883a57f3a52c305c376d0fb5e99b|Administrador|Activo
